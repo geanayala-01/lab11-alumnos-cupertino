@@ -32,5 +32,5 @@ Usuario de prueba: `maria.gonzalez@correo.com` / `123456`
 ## Ejecutar
 ```bash
 flutter pub get
-flutter run
+flutter rUN
 ```
